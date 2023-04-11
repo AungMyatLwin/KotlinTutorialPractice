@@ -1,6 +1,13 @@
 fun main(args: Array<String>) {
 
 }
+fun sealCls(){
+    val success=Result.Success("Success!")
+    val error=Result.Error("Error")
+    val progress = Result.Progress("Progress 50%")
+
+    getData(progress)
+}
 
 // inheritance 2 example
 fun buttons(){

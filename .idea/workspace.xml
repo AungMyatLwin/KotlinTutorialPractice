@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25d88ba3-4308-4753-86e2-8c56de6a84b4" name="Changes" comment="Inheritance_Fix">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Buttons.kt" afterDir="false" />
+    <list default="true" id="25d88ba3-4308-4753-86e2-8c56de6a84b4" name="Changes" comment="Inheritance View.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Result.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -105,13 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681191915295</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Inheritance View.">
+      <created>1681219556891</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681219556891</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is kotlin" />
     <MESSAGE value="Inheritance" />
     <MESSAGE value="Inheritance_Fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance_Fix" />
+    <MESSAGE value="Inheritance View." />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance View." />
   </component>
 </project>
