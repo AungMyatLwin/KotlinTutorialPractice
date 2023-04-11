@@ -1,9 +1,9 @@
 // parent class
 open class Vehicle(val name: String, val color:String){
-    fun move(){
+   open fun move(){
         println("$name is moving")
     }
-    fun stop() {
+   open fun stop() {
         println("$name stopped")
     }
 }

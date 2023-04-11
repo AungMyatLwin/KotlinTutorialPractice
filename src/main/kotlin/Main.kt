@@ -1,6 +1,6 @@
 fun main(args: Array<String>) {
     carFun()
-    PlaneFun()
+    planeFun()
 }
 // inherited From Vehicle
 fun carFun(){
@@ -8,7 +8,7 @@ fun carFun(){
     car.move()
     car.stop()
 }
-fun PlaneFun(){
+fun planeFun(){
     val plane = Car("BMW Plane", "Black Plane",23,445)
     plane.move()
     plane.stop()
