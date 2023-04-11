@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25d88ba3-4308-4753-86e2-8c56de6a84b4" name="Changes" comment="Inheritance">
+    <list default="true" id="25d88ba3-4308-4753-86e2-8c56de6a84b4" name="Changes" comment="Inheritance_Fix">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Buttons.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Car.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Car.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Vehicle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Vehicle.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,12 +98,20 @@
       <option name="project" value="LOCAL" />
       <updated>1681191455563</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Inheritance_Fix">
+      <created>1681191915295</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681191915295</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is kotlin" />
     <MESSAGE value="Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
+    <MESSAGE value="Inheritance_Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance_Fix" />
   </component>
 </project>

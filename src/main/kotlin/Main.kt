@@ -1,7 +1,15 @@
 fun main(args: Array<String>) {
-    carFun()
-    planeFun()
+
 }
+
+// inheritance 2 example
+fun buttons(){
+    val button=Button("TextView", "vertical")
+    button.draw()
+    val roundedButton=RoundedButton("Rounded Button","horizontal", 80)
+    roundedButton.draw()
+}
+
 // inherited From Vehicle
 fun carFun(){
     val car = Car("BMW", "Black",2,4)
