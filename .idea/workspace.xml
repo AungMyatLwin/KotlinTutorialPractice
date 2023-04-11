@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25d88ba3-4308-4753-86e2-8c56de6a84b4" name="Changes" comment="This is kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Car.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Plane.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Vehicle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="25d88ba3-4308-4753-86e2-8c56de6a84b4" name="Changes" comment="Inheritance">
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,11 +75,26 @@
       <option name="project" value="LOCAL" />
       <updated>1681190479168</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Inheritance">
+      <created>1681191372491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681191372491</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inheritance">
+      <created>1681191390737</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681191390737</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is kotlin" />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
   </component>
 </project>

@@ -9,9 +9,9 @@ fun carFun(){
     car.stop()
 }
 fun PlaneFun(){
-    val Plane = Car("BMW Plane", "Black Plane",23,445)
-    Plane.move()
-    Plane.stop()
+    val plane = Car("BMW Plane", "Black Plane",23,445)
+    plane.move()
+    plane.stop()
 }
 
 // oop challenge #1
