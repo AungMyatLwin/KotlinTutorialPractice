@@ -1,6 +1,19 @@
 fun main(args: Array<String>) {
-
+    carFun()
+    PlaneFun()
 }
+// inherited From Vehicle
+fun carFun(){
+    val car = Car("BMW", "Black",2,4)
+    car.move()
+    car.stop()
+}
+fun PlaneFun(){
+    val Plane = Car("BMW Plane", "Black Plane",23,445)
+    Plane.move()
+    Plane.stop()
+}
+
 // oop challenge #1
 fun account(){
     val account= Bank("Aung")
