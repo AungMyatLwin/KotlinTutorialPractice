@@ -5,6 +5,27 @@ class User(var firstName:String, var lastName:String = "LastName", var age:Int){
     init {
         println("User :$firstName was created")
     }
+    // equals, hashcode and toString inherited from Any cls
+    // can be overridden
+    override fun equals(other: Any?): Boolean {
+
+        if(this===other){
+            return true
+        }
+        if (other is User){
+            return  this.firstName== other.firstName && this.lastName==other.lastName && this.age==other.age
+        }
+        return false
+    }
+
+    // if equals override, must also override hashcode
+    override fun hashCode(): Int {
+        return 0
+    }
+}
+data class User1(var firstName:String, var lastName:String = "LastName", var age:Int){
+    // for comparing, shaping and storing data
+    // automatically generated hashcode, equals and toString
 }
 
 // singleton old way
