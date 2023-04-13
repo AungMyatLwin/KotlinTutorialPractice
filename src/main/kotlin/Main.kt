@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-
+// delegation
 }
 
 fun objectExpression(){
