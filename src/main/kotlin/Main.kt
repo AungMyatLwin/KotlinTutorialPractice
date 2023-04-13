@@ -1,5 +1,20 @@
 fun main(args: Array<String>) {
-// object expression
+
+}
+
+fun objectExpression(){
+    // object expression || anonymous class
+    val clickListener=ClickListener()
+    val loginButton=ButtonObj("login", 1221,object:OnClickListener{
+        override fun onClick() {
+            println("Login onClick")
+        }
+    } )
+    val signUpButton = ButtonObj("Sign up", 2123, object:OnClickListener{
+        override fun onClick() {
+            println("SignUp onClick")
+        }
+    })
 }
 fun sealCls(){
     val success=Result.Success("Success!")

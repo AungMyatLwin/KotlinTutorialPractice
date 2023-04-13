@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25d88ba3-4308-4753-86e2-8c56de6a84b4" name="Changes" comment="Abstract Class Learn">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Truck.kt" afterDir="false" />
+    <list default="true" id="25d88ba3-4308-4753-86e2-8c56de6a84b4" name="Changes" comment="about interface">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Button.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Car.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Car.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Vehicle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Vehicle.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681246404636</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Extends interface Engine">
+      <created>1681349867225</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681349867225</updated>
+    </task>
+    <task id="LOCAL-00010" summary="about interface">
+      <created>1681349894802</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681349894802</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +150,8 @@
     <MESSAGE value="Inheritance View." />
     <MESSAGE value="Sealed Class Learned" />
     <MESSAGE value="Abstract Class Learn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract Class Learn" />
+    <MESSAGE value="Extends interface Engine" />
+    <MESSAGE value="about interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="about interface" />
   </component>
 </project>
