@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-
+// object expression
 }
 fun sealCls(){
     val success=Result.Success("Success!")
